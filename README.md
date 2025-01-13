@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Carlos Eduardo Leonel dos Santos.
+Me chamo Carlos Eduardo Leonel dos Santos, sou desenvolvedor de sistemas formado pelo IFAL Campus Arapiraca e acadêmico de Medicina (8º período) pela UFAL Campus Arapiraca.
 
 <p align="left">
     <a href="https://github.com/cadu-leonel?tab=repositories&sort=stargazers">
